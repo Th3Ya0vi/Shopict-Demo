@@ -7,4 +7,15 @@ Shopict is a social network who allows user to share "shoppable items" from a we
 
 It is the sample of common social networks nowaday, including the features like create accounts, follow accounts, like posts, retweet posts, comment posts, etc. People can make this as a reference to create their own mobile communities easier and make people connected.
 
+Libaries I have included and used:
+IFTweetLabel
+MGSplitViewController
+ASIHTTP-Request
+AviarySDK
+EGOTableViewPullRefresh
+SBJSON
+MBProgressHUD
+SDWebImage
+TimeAgo
+
 *PLEASE DONT TRY TO MODIFY THE REQUEST MODELS, IT MAY CAUSES BACKEND CRUSHES.
